@@ -1,3 +1,5 @@
+#백준
+
 
 n=int(input())
 pList =list(map(int, input().split(" ")))

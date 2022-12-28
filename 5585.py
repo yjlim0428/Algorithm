@@ -1,3 +1,5 @@
+#백준
+
 money = int(input())
 money = 1000 - money
 result = 0

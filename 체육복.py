@@ -1,3 +1,5 @@
+# 프로그래머스
+
 def solution(n, lost, reserve):
     ## 가지고 있는 체육복 수
     having = [1 for _ in range(n + 2)]
