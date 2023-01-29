@@ -14,6 +14,7 @@ l.pop()
 O_n += 1
 print(f"O(1) :\t\t{O_n}")
 
+
 ## 2. O(log n)
 
 O_n = 0
